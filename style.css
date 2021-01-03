@@ -1,4 +1,18 @@
-img{height: 300px;
-width: 300px;}
-body{background-color: black;
-text-align: center;}
+img {
+    height: 300px;
+    width: 300px;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#homeimg {
+    width: 500px;
+    height: 500px
+}
+
+#contact iframe {
+    width: 100%;
+}
